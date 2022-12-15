@@ -35,5 +35,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<br>
+<br>
+<div align=center>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SY2on&show_icons=true&theme=graywhite)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SY2on&show_icons=true&theme=radical)
+</div>
